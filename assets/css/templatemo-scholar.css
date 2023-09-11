@@ -1774,6 +1774,9 @@ body {
     .header-area .main-nav #search i {
         display: none;
     }
+    .header-area .main-nav .logo img {
+        height: 50px !important;
+    }
     .header-area .main-nav .logo h1 {
         font-size: 34px;
     }
